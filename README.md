@@ -7,7 +7,7 @@
     </div>
     <div style="display: flex;margin-top: 5px; align-items: center">
         <img src="https://metamask.io/images/metamask-logo.png" width="17" height="17">
-        <span style="padding-left: 15px"><strong>0x251d1EA8113549B6874cF30e32C2030f423BB655</strong></span>
+        <span style="padding-left: 15px"><strong>UQBL1hnQ_Xttx57EUIqxg0Qo2hGPVLVJ4AdsiELD38aXBmed</strong></span>
     </div>
 </div>
 
